@@ -80,7 +80,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=Leixhik&icon=3&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Leixhik&style=flat-square)
   
 </div>
 
